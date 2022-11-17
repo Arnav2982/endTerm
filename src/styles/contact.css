@@ -1,0 +1,15 @@
+.container{
+    height: fit-content;
+    width: 500px;
+}
+
+.container input{
+    border: none;
+    border-radius: 50px;
+    height: 30px;
+    width: 475px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: gray;
+}
